@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.search-container {
+  position: relative;
+  display: inline-block;
+  or display: flex;
+}
+
+.search-bar {
+  padding: 8px 30px 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 900px;
+}
+
+.search-button {
+  position: absolute;
+  height: 36px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.table {
+  border-spacing: 12px;
+}
+

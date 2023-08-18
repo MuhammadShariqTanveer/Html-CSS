@@ -1,0 +1,17 @@
+.table{
+    text-align: center;
+}
+
+.color{
+    background-color:cornflowerblue;
+}
+
+.td{
+    color: white;
+}
+
+.img{
+    height: 70px;
+    position:absolute;
+    right: 60px;
+}

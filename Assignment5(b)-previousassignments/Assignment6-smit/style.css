@@ -1,0 +1,64 @@
+@font-face {
+  font-family: Anton;
+  src: url(font/Anton-Regular.ttf);
+}
+
+* {
+  padding: 0px;
+}
+
+body {
+  font-family: Anton;
+  font-size: 17px;
+  background-image: url(images/saylani.audi.jpg);
+  background-repeat: no-repeat;
+  background-size: 170%;
+}
+
+.main {
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.main h1 {
+  text-align: center;
+  padding: 25px 0px;
+}
+
+.container {
+  width: 1150px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.items img {
+  width: 200px;
+}
+
+.items {
+  text-align: center;
+  margin: 10px 10px;
+  box-shadow: 0px 0px 10px 10px lightgrey;
+  /* text-align: center; */
+  padding: 0px 6px;
+  background: white;
+}
+
+.items h3 {
+  padding: 10px 0px;
+}
+
+.items p {
+  font-size: 14px;
+  padding: 0px;
+}
+
+.items button {
+  padding: 15px 50px;
+  border: none;
+  color: white;
+  margin: 10px 0px;
+  border-radius: 0px;
+}
