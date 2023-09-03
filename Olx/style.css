@@ -1,0 +1,1021 @@
+* {
+    margin: 0px;
+}
+
+.one {
+    width: 100%;
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 130px;
+    margin: 0px;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.olxlogo {
+    position: absolute;
+    width: 40px;
+    top: 18px;
+    left: 27px;
+}
+
+.motors {
+    position: absolute;
+    top: 15px;
+    left: 107px;
+    font-size: 12px;
+}
+
+#headercar {
+    border: 1px solid #e3e3e3;
+    margin-right: 7px;
+    padding: 8px;
+    border-radius: 100%;
+}
+
+.property {
+    position: absolute;
+    top: 15px;
+    left: 240px;
+    font-size: 12px;
+}
+
+#headerproperty {
+    border: 1px solid #e3e3e3;
+    margin-right: 7px;
+    padding: 9px 10px;
+    border-radius: 100%;
+}
+
+.olxlogoblack {
+    position: absolute;
+    width: 65px;
+    top: 68px;
+    left: 30px;
+}
+
+.textbar {
+    position: absolute;
+    height: 40px;
+    width: 270px;
+    top: 67px;
+    left: 135px;
+    padding-left: 40px;
+    border: 2px solid black;
+
+}
+
+#text {
+    position: absolute;
+    width: 65px;
+    top: 83px;
+    left: 145px;
+    z-index: 100;
+}
+
+#angledown {
+    position: absolute;
+    width: 65px;
+    top: 83px;
+    left: 420px;
+}
+
+.searchbar {
+    position: absolute;
+    height: 45px;
+    width: 630px;
+    top: 67px;
+    left: 465px;
+    padding-left: 10px;
+    border: 2px solid black;
+}
+
+#search {
+    position: absolute;
+    font-size: 25px;
+    border: 1px solid #002f34;
+    padding: 9px 9px;
+    background-color: #002f34;
+    top: 67px;
+    left: 1090px;
+}
+
+.login {
+    position: absolute;
+    left: 1160px;
+    top: 79px;
+}
+
+.colorimg {
+    position: absolute;
+    width: 100px;
+    top: 66px;
+    left: 1225px;
+}
+
+.plusheader {
+    position: absolute;
+    top: 80px;
+    left: 1243px;
+
+}
+
+.sellheader {
+    position: absolute;
+    top: 79px;
+    left: 1261px;
+
+}
+
+.header a:hover {
+    color: dodgerblue;
+}
+
+.header a {
+    color: black;
+    text-decoration: none;
+}
+
+
+/* HEADER ENDS */
+
+.two {
+    width: 100%;
+    margin: 0px;
+}
+
+.bodyline {
+    /* width: 100%; */
+    height: 45px;
+    margin: 0px;
+    position: relative;
+    background-color: white;
+    border: 2px solid whitesmoke;
+
+}
+
+.bodyline h4 {
+    position: absolute;
+    top: 12px;
+    left: 30px;
+}
+
+.arrowdown {
+    position: absolute;
+    top: 10px;
+    left: 130px;
+}
+
+.bodymobile {
+    position: absolute;
+    top: 13px;
+    left: 180px;
+}
+
+.bodycar {
+    position: absolute;
+    top: 13px;
+    left: 295px;
+}
+
+.bodymotorcycles {
+    position: absolute;
+    top: 13px;
+    left: 345px;
+}
+
+.bodyhouses {
+    position: absolute;
+    top: 13px;
+    left: 445px;
+}
+
+.bodytva {
+    position: absolute;
+    top: 13px;
+    left: 510px;
+}
+
+.bodytablet {
+    position: absolute;
+    top: 13px;
+    left: 638px;
+}
+
+.bodylp {
+    position: absolute;
+    top: 13px;
+    left: 705px;
+}
+
+.bodyline a {
+    color: black;
+}
+
+.bodyline a:hover {
+    color: cadetblue;
+}
+
+/* Section two ends */
+
+.three {
+    width: 100%;
+    margin: 0px;
+}
+
+.bodycategories {
+    width: 100%;
+    margin: 0px;
+    position: relative;
+}
+
+.thumbnail1 {
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 185px;
+    width: 1300px;
+}
+
+.bodycategories h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.imgcategories {
+    margin-top: 25px;
+    width: 90px;
+    margin-left: 50px;
+}
+
+.imgcategories1 {
+    margin-top: 75px;
+    width: 90px;
+    margin-left: 50px;
+}
+
+.anchorcategories {
+    position: relative;
+}
+
+.ancmobile {
+    position: absolute;
+    top: -165px;
+    left: 65px;
+}
+
+.ancvehicle {
+    position: absolute;
+    top: -165px;
+    left: 210px;
+}
+
+.ancpfsale {
+    position: absolute;
+    top: -165px;
+    left: 345px;
+    text-align: center;
+}
+
+.ancpfrent {
+    position: absolute;
+    top: -165px;
+    left: 490px;
+    text-align: center;
+}
+
+.anccamera {
+    position: absolute;
+    top: -165px;
+    left: 630px;
+    text-align: center;
+}
+
+.ancbike {
+    position: absolute;
+    top: -165px;
+    left: 794px;
+    text-align: center;
+}
+
+.anctractor {
+    position: absolute;
+    top: -165px;
+    left: 920px;
+    text-align: center;
+}
+
+.ancservices {
+    position: absolute;
+    top: -165px;
+    left: 1079px;
+    text-align: center;
+}
+
+.ancjobs {
+    position: absolute;
+    top: -165px;
+    left: 1235px;
+    text-align: center;
+}
+
+.ancanimal {
+    position: absolute;
+    top: 3px;
+    left: 65px;
+    text-align: center;
+}
+
+.ancfurniture {
+    position: absolute;
+    top: 3px;
+    left: 195px;
+    text-align: center;
+}
+
+.ancfashion {
+    position: absolute;
+    top: 3px;
+    left: 345px;
+    text-align: center;
+}
+
+.ancbooks {
+    position: absolute;
+    top: 3px;
+    left: 485px;
+    text-align: center;
+}
+
+.anckids {
+    position: absolute;
+    top: 3px;
+    left: 655px;
+    text-align: center;
+}
+
+.anchorcategories a {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.anchorcategories a:visited {
+    color: black;
+}
+
+/* Section three ends */
+
+.bikeh {
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+
+.four {
+    /* width: 1350px; */
+}
+
+.bikesandmotorcycles {
+    width: 300px;
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+
+}
+
+.bikeadimg {
+    width: 300px;
+    height: 170px;
+
+}
+
+.bikeadh3 {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#heart {
+    position: absolute;
+    left: 290px;
+    top: 1075px;
+    font-size: 21px;
+}
+
+.bikeadhonda {
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.bikeadlocation {
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+
+#heart1 {
+    position: absolute;
+    margin-left: 265px;
+    margin-top: -25px;
+    font-size: 21px;
+}
+
+#heart2 {
+    position: absolute;
+    margin-left: 265px;
+    margin-top: -25px;
+    font-size: 21px;
+}
+
+#heart3 {
+    position: absolute;
+    margin-left: 265px;
+    margin-top: -25px;
+    font-size: 21px;
+}
+
+.four a {
+    color: black;
+}
+
+.four a:visited {
+    color: black;
+}
+
+/* Section four ends */
+
+.carh {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.cars {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.caradimg {
+    width: 300px;
+    height: 170px;
+    /* margin-left: 27px; */
+}
+
+.caradh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#heart4 {
+    position: absolute;
+    left: 290px;
+    top: 1486px;
+    font-size: 21px;
+}
+
+.caradmira {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.caradlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+#heart5 {
+    position: absolute;
+    left: 615px;
+    top: 1485px;
+    font-size: 21px;
+}
+
+#heart6 {
+    position: absolute;
+    left: 945px;
+    top: 1485px;
+    font-size: 21px;
+}
+
+#heart7 {
+    position: absolute;
+    left: 1275px;
+    top: 1485px;
+    font-size: 21px;
+}
+
+.five a {
+    color: black;
+}
+
+.five a:visited {
+    color: black;
+}
+
+/* Section five ends */
+
+
+.mobileh {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.mobilephones {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.mobileadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart8 {
+    position: absolute;
+    margin-left: 265px;
+    top: 1900px;
+    font-size: 21px;
+}
+
+.mobileadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.mobileadsamsung {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.mobileadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.six a {
+    color: black;
+}
+
+.six a:visited {
+    color: black;
+}
+
+/* Section six */
+
+
+.househ {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.houses {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.houseadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart9 {
+    position: absolute;
+    margin-left: 265px;
+    top: 2310px;
+    font-size: 21px;
+}
+
+.houseadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.houseadbangalow {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.houseadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.seven a {
+    color: black;
+}
+
+.seven a:visited {
+    color: black;
+}
+
+/* Section seven ends */
+
+.tvah {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+
+.tv {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.tvaadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart10 {
+    position: absolute;
+    margin-left: 265px;
+    top: 2724px;
+    font-size: 21px;
+}
+
+.tvaadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.tvaadhaier {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.tvaadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.eight a {
+    color: black;
+}
+
+.eight a:visited {
+    color: black;
+}
+
+/* section eight ends */
+
+.tableth {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.tablets {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.tabletadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart11 {
+    position: absolute;
+    margin-left: 265px;
+    top: 3135px;
+    font-size: 21px;
+}
+
+.tabletadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.tabletadsamsung {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.tabletadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.nine a {
+    color: black;
+}
+
+.nine a:visited {
+    color: black;
+}
+
+/* Section nine ends */
+
+.ploth {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.plots {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.plotadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart12 {
+    position: absolute;
+    margin-left: 265px;
+    top: 3546px;
+    font-size: 21px;
+}
+
+.plotadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.plotadland {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.plotadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.ten a {
+    color: black;
+}
+
+.ten a:visited {
+    color: black;
+}
+
+/* Section ten */
+
+.jobh {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.jobs {
+    margin-left: 27px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.jobadimg {
+    width: 300px;
+    height: 170px;
+}
+
+#heart13 {
+    position: absolute;
+    margin-left: 265px;
+    top: 3960px;
+    font-size: 21px;
+}
+
+.jobadh3 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.jobad {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+
+.jobadlocation {
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.twelve {
+    height: 190px;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+
+.olxmobileapp {
+    margin-top: 60px;
+    display: inline-block;
+    background-color: whitesmoke;
+
+}
+
+.mobappimg {
+    background-color: whitesmoke;
+    margin-top: -59px;
+    height: 185px;
+
+}
+
+.mobapph1 {
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 30px;
+    font-size: 30px;
+    background-color: whitesmoke;
+}
+
+.mobappp {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 30px;
+    font-size: 22px;
+    background-color: whitesmoke;
+
+}
+
+.mobappline {
+    position: absolute;
+    margin-left: 420px;
+    margin-top: -155px;
+    height: 130px;
+    width: 35px;
+}
+
+.mobappp2 {
+    position: absolute;
+    margin-left: 470px;
+    margin-top: -130px;
+    font-weight: bold;
+    word-spacing: 1px;
+    font-size: 14px;
+}
+
+.mobapp6 {
+    position: absolute;
+    width: 130px;
+    margin-left: 470px;
+    margin-top: -95px;
+}
+
+.mobapp4 {
+    position: absolute;
+    width: 130px;
+    margin-left: 610px;
+    margin-top: -95px;
+}
+
+.mobapp7 {
+    position: absolute;
+    width: 130px;
+    margin-left: 750px;
+    margin-top: -95px;
+}
+
+.elevin a {
+    color: black;
+}
+
+.elevin a:visited {
+    color: black;
+}
+
+.twelve a {
+    color: black;
+}
+
+.twelve a:visited {
+    color: black;
+}
+
+/* Section twelve ends */
+
+.thirteen {
+    background-color: #ebeeef;
+    height: 210px;
+
+}
+
+.last {
+    display: inline-block;
+}
+
+.popularcategories {
+    padding-top: 20px;
+    margin-left: 25px;
+}
+
+.popularcategories p {
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+.trendingsearches {
+    padding-top: 20px;
+    margin-left: 100px;
+}
+
+.trendingsearches p {
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+.aboutus {
+    padding-top: 20px;
+    margin-left: 100px;
+}
+
+.aboutus p {
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+.olx {
+    padding-top: 20px;
+    margin-left: 100px;
+}
+
+.olx p {
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+.followus {
+    padding-top: 20px;
+    margin-left: 60px;
+}
+
+.followus p {
+    margin-top: 5px;
+}
+
+.socialicons {
+    width: 30px;
+}
+
+.imgfollowus {
+    width: 90px;
+    padding-top: 42px;
+}
+
+.thirteen a {
+    color: black;
+}
+
+.thirteen a:visited {
+    color: black;
+}
+
+/*  Section thirteen ends  */
+
+
+.footer {
+    height: 50px;
+    background-color: #002f34;
+}
+
+.foot p {
+    color: white;
+    position: absolute;
+    right: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
