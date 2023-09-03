@@ -1,4 +1,4 @@
-![image](https://github.com/MuhammadShariqTanveer/HTML-CSS/assets/136991351/16933676-b846-4050-a5ea-1a132f3af0e0)# HTML-CSS
+# HTML-CSS
  Assignments/Projects: Saylani Mass IT Training
 Assignments:
 
