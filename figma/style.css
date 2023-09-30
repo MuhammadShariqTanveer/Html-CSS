@@ -1,0 +1,795 @@
+* {
+    margin: 0%;
+    background-col;
+
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    /* background-color: red; */
+    /* border: 1px solid; */
+}
+
+.headimg {
+    width: 20%;
+    /* border: 1px solid blue; */
+    position: relative;
+    top: 30px;
+}
+
+.headimg img {
+    position: relative;
+    width: 150px;
+    left: 50px;
+
+}
+
+.headtext {
+    width: 80%;
+    /* border: 1px solid red; */
+    position: relative;
+    top: 30px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 35px;
+}
+
+.headtext p {
+    margin-top: 17px;
+    display: inline-block;
+    position: relative;
+    right: 60px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 520;
+}
+
+.headbutton {
+    border: 1px solid #75BF7A;
+    background: #75BF7A;
+    color: white;
+    position: relative;
+    top: -10px;
+    padding: 8px 30px;
+    border-radius: 6px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
+
+.header a:visited {
+    color: black;
+}
+
+.lines {
+    display: none;
+}
+
+.second {
+    width: 100%;
+    display: flex;
+    padding-top: 40px;
+    height: 650px;
+    align-items: center;
+    /* background-color: wheat; */
+}
+
+.secondtext {
+    width: 50%;
+    /* border: 1px solid; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.secondtext img {
+    width: 200px;
+}
+
+.secondtext h1 {
+    font-weight: 900;
+}
+
+.secondtext p {
+    position: relative;
+    top: 20px;
+}
+
+.secondtext img {
+    position: relative;
+    top: 100px;
+    padding-left: 10px;
+}
+
+.secondimg {
+    width: 50%;
+    /* border: 1px solid; */
+}
+
+.secondimg img {
+    width: 500px;
+}
+
+.third {
+    width: 100%;
+    height: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+
+}
+
+.thirdstart {
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid #75BF7A; */
+    background: #75BF7A;
+    padding: 40px;
+
+}
+
+.thirdstart input {
+    padding: 10px;
+    padding-right: 250px;
+    margin-left: 50px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+
+.thirdstart button {
+    background-color: black;
+    color: white;
+    text-decoration: line-through;
+    text-decoration-color: yellow;
+    border-radius: 5px;
+    padding: 10px 25px;
+}
+
+.thirdmiddle {}
+
+.thirdmiddle h2 {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.tere {
+    color: #75BF7A;
+}
+
+.thirdmiddle p {
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+.ellipse {
+    width: 330px;
+    position: relative;
+    left: 530px;
+
+
+}
+
+.mobile {
+    width: 230px;
+    position: relative;
+    left: 245px;
+    top: 30px;
+}
+
+
+.thirdlast {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    position: relative;
+    bottom: 265px;
+}
+
+.thirdlasttext {
+    width: 30%;
+    /* border: 1px solid; */
+    text-align: end;
+    position: relative;
+    left: 95px;
+
+}
+
+.thirdlasttext img {
+    width: 45px;
+
+}
+
+.thirdlasttext h2 {
+    color: #75BF7A;
+    position: relative;
+    bottom: 41px;
+    right: 16px;
+}
+
+.thirdlasttext p {}
+
+.thirdlasttext2 {
+    width: 30%;
+    /* border: 1px solid; */
+    text-align: start;
+    position: relative;
+    left: 480px;
+}
+
+.thirdlasttext2 img {
+    width: 45px;
+    position: relative;
+
+}
+
+.thirdlasttext2 h2 {
+    color: #75BF7A;
+    position: relative;
+    left: 15px;
+    bottom: 40px;
+}
+
+
+.lights {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 205px;
+    left: 55px;
+}
+
+.benefits {
+    width: 100%;
+    /* background-color: aqua; */
+    margin-top: -130px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+
+.benefits h1 {
+    text-align: center;
+    font-weight: 900;
+}
+
+.benefits span {
+    color: #75BF7A;
+}
+
+.benefits1 {
+    width: 70%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: relative;
+    left: 70px;
+    /* background-color: whitesmoke; */
+}
+
+.benefits1first {
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.benefits1first h1 {
+    font-size: 70px;
+    color: #75BF7A;
+}
+
+.benefits1first h2 {
+    position: relative;
+    bottom: 65px;
+    left: 50px;
+}
+
+.benefits1first p {
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+    color: gray;
+}
+
+.benefits1last {
+    padding-top: 20px;
+}
+
+
+.benefits1last img {
+    position: relative;
+    left: 430px;
+    height: 185px;
+}
+
+
+
+.benefits2 {
+    width: 70%;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: relative;
+    left: 330px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+
+.benefits2first img {
+    height: 185px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 40px;
+
+}
+
+.benefits2last {
+    position: relative;
+    left: 400px;
+    padding-top: 50px;
+}
+
+.benefits2last h1 {
+    font-size: 70px;
+    color: #75BF7A;
+
+}
+
+.benefits2last h2 {
+    position: relative;
+    left: 110px;
+    bottom: 70px;
+}
+
+.benefits2last p {
+    position: relative;
+    left: 10px;
+    bottom: 20px;
+    color: gray;
+}
+
+.benefits3 {
+    width: 70%;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: relative;
+    left: 70px;
+    margin-bottom: 90px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+.benefits3first {
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.benefits3first h1 {
+    font-size: 75px;
+    color: #75BF7A;
+}
+
+.benefits3first h2 {
+    position: relative;
+    left: 110px;
+    bottom: 70px;
+}
+
+.benefits3first p {
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+    color: gray;
+}
+
+.benefits3last img {
+    height: 195px;
+    position: relative;
+    left: 250px;
+    top: 25px;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    gap: 90px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.footimg {
+    position: relative;
+    right: 40px;
+}
+
+.foottext {
+    text-align: center;
+}
+
+.foottext {
+    position: relative;
+    bottom: 50px;
+}
+
+.footdownloadimg {
+    position: relative;
+    left: 70px;
+}
+
+.footdownloadimg img {
+    width: 150px;
+    padding-left: 10px;
+
+}
+
+.mobtera {
+    display: none;
+}
+
+.benefits1mob {
+    display: none;
+}
+
+.benefits2mob {
+    display: none;
+}
+
+.benefits3mob {
+    display: none;
+}
+
+.footermob {
+    display: none;
+}
+
+@media screen and (max-width:750px) {
+    .headtext {
+        display: none;
+    }
+
+    .headimg img {
+        position: relative;
+        width: 150px;
+        left: 5px;
+
+    }
+
+    .lines {
+        width: 60px;
+        position: absolute;
+        display: inline-block;
+        top: 25px;
+        right: 10px;
+    }
+
+    .second {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        /* background-color: wheat; */
+    }
+
+    .secondtext {
+        width: 100%;
+        position: relative;
+        right: 25px;
+        /* top: 15px; */
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+
+        /* display: none; */
+    }
+
+    .secondtext img {
+        width: 150px;
+        position: relative;
+        top: 25px;
+        /* display: none; */
+    }
+
+    .secondtext h1 {
+        width: 100%;
+        font-weight: 900;
+        font-size: 35px;
+        /* display: none; */
+    }
+
+    .secondtext p {
+        width: 100%;
+        position: relative;
+        top: 10px;
+        font-size: 15px;
+        /* display: none; */
+    }
+
+
+
+    .secondimg {
+        width: 100%;
+        /* border: 1px solid; */
+        position: relative;
+        bottom: 20px;
+
+    }
+
+    .secondimg img {
+        width: 100%
+    }
+
+    .third {
+        width: 100%;
+        /* height: 650px; */
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 19px;
+        margin-top: 50px;
+    }
+
+    .thirdstart {
+        height: 190px;
+        display: flex;
+        flex-direction: column;
+        /* border: 1px solid #75BF7A; */
+        background: #75BF7A;
+        font-size: 30px;
+        color: white;
+
+    }
+
+    .thirdstart input {
+        position: relative;
+        right: 70px;
+        padding: 20px;
+        width: 100%;
+        text-align: center;
+        border-radius: 5px;
+        border: 1px solid white;
+
+    }
+
+    .thirdstart p {
+        position: relative;
+        right: 20px;
+        bottom: 25px;
+    }
+
+    .thirdstart button {
+        width: 100%;
+        position: relative;
+        top: 15px;
+        padding: 15px;
+        background-color: black;
+        color: white;
+        text-decoration: line-through;
+        text-decoration-color: yellow;
+
+    }
+
+    .thirdmiddle {
+        width: 100%;
+        /* border: 1px solid; */
+
+    }
+
+    .thirdmiddle h2 {
+        width: 100%;
+        text-align: center;
+        padding-top: 50px;
+
+    }
+
+    .thirdmiddle p {
+        width: 100%;
+        font-size: 23.90px;
+        text-align: center;
+    }
+
+    .ellipse {
+        width: 85%;
+        position: relative;
+        left: 25px;
+        top: 90px;
+
+
+    }
+
+    .mobile {
+        width: 50%;
+        position: relative;
+        left: 88px;
+        top: -250px;
+
+    }
+
+    .lights {
+        width: 100%;
+        position: relative;
+        top: 300px;
+        left: 0px;
+    }
+
+    .thirdlast {
+        display: none;
+    }
+
+    .mobtera {
+        width: 100%;
+        display: inline-block;
+        position: relative;
+        top: 356px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .mobtera h2 {
+        position: relative;
+        bottom: 50px;
+    }
+
+    .mobtera1 {
+        padding-bottom: 60px;
+    }
+
+    .mob4 {
+        position: relative;
+        top: -20px;
+    }
+
+    .mobtera p {
+        font-size: 22px;
+    }
+
+    .mobtera h3 {
+        font-weight: 900;
+        ;
+    }
+
+    .benefits {
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .benefits h1 {
+        position: relative;
+        top: 550px;
+    }
+
+
+    .benefits1 {
+        display: none;
+    }
+
+    .benefits2 {
+        display: none;
+    }
+
+    .benefits3 {
+        display: none;
+    }
+
+
+    .benefits1mob {
+        width: 100%;
+        display: block;
+        position: relative;
+        top: 550px;
+        font-family: Arial, Helvetica, sans-serif;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+
+    }
+
+    .benefits1firstmob h1 {
+        color: #75BF7A;
+        font-size: 50px;
+        margin-left: 30px;
+    }
+
+    .benefits1firstmob h2 {
+        margin-left: 110px;
+        margin-top: -55px;
+    }
+
+    .benefits1lastmob {
+        text-align: center;
+    }
+
+    .benefits2mob {
+        width: 100%;
+        display: block;
+        position: relative;
+        top: 600px;
+        font-family: Arial, Helvetica, sans-serif;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+
+    .benefits2firstmob h1 {
+        color: #75BF7A;
+        font-size: 50px;
+        margin-left: 30px;
+    }
+
+    .benefits2firstmob h2 {
+        margin-left: 110px;
+        margin-top: -40px;
+    }
+
+    .benefits2lastmob {
+        text-align: center;
+    }
+
+
+    .benefits3mob {
+        width: 100%;
+        display: block;
+        position: relative;
+        top: 650px;
+        font-family: Arial, Helvetica, sans-serif;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+
+    }
+
+    .benefits3firstmob h1 {
+        color: #75BF7A;
+        font-size: 50px;
+        margin-left: 30px;
+    }
+
+    .benefits3firstmob h2 {
+        margin-left: 110px;
+        margin-top: -55px;
+    }
+
+    .benefits3lastmob {
+        text-align: center;
+    }
+
+    .benefits3lastmob p {
+        font-size: 13px;
+    }
+
+
+
+    .footer {
+        display: none;
+
+    }
+
+    .footermob {
+        width: 100%;
+        position: relative;
+        top: 650px;
+    }
+
+    .hr {
+        display: none;
+    }
+
+    .footermob {
+        width: 100%;
+        display: block;
+        margin-top: 80px;
+        text-align: center;
+    }
+
+    .footdownloadmob {
+        height: 30px;
+        padding-top: 40px;
+    }
+
+    .foottextmob {
+        padding-top: 120px;
+        line-height: 35px;
+    }
+
+}
