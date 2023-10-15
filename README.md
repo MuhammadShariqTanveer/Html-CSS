@@ -1,6 +1,5 @@
 # HTML-CSS
- Assignments/Projects: Saylani Mass IT Training
-Assignments:
+ Assignments/Projects: Saylani Mass IT Training:
 
 01: https://assignment-01-html.netlify.app
 
@@ -15,3 +14,6 @@ Assignments:
 06: https://assignment6-smit.netlify.app
 
 07: https://saltnpepperrestaurant.netlify.app
+
+08: http://pepsiassignmentshariq.surge.sh/
+
