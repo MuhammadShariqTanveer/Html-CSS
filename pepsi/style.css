@@ -425,3 +425,284 @@ h1 {
 }
    
  
+
+
+
+
+
+
+@media screen and (max-width: 420px){
+    .main{
+        display: none;
+    }
+
+    .headermobile {
+        width: 100%;
+        margin: 0px;
+        height: 110px;
+        background-color: #0025ff;
+        display: flex;
+        font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        font-size: 15px;
+        position: fixed;
+        z-index: 100;
+        
+    }
+    
+    .imgheadermobile img {
+        width: 60px;
+        margin-top: 25px;
+        margin-left: 10px;
+        left: 35px;
+    }
+    
+    .imgheadermobile img:hover {
+        animation: flash infinite;
+        animation-duration: 1.2s;
+    }
+    
+    .textheadermobile {
+        width: 100%;
+        margin: 0px;
+    
+    }
+    
+    .textheadermobile ul {
+        width: 100%;
+        display: flex;
+        align-items:center;
+        position: absolute;
+        gap: 40px;
+        /* left: 120px; */
+        top: 30px;
+        list-style: none;
+        color: white;
+        font-weight: 900;
+    }
+
+    .textheadermobile a {
+        color: white;
+        text-decoration: none;
+        font-weight: 900;
+    }
+    
+    .textheadermobile a:visited {
+        color: white;
+    }
+
+    .svg3{
+        width: 50px;
+        /* margin-left: 10px; */
+        /* background-color: aliceblue; */
+    }
+
+    .mainbodymobile {
+        width: 100%;
+    }
+    
+    .videomobile {
+        width: 100%;
+    }
+    
+    .videomobile video {
+        width: 100%;
+        margin-top: 110px;
+        
+    }
+
+
+    .pepsi125mobile {
+        margin-top: -5px;
+        width: 100%;
+        height: 330px;
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+    
+    .pepsi125mobile h2,h3,h1 {
+        font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+       
+        /* top: 60px; */
+        /* word-spacing: -15px; */
+        /* line-height: 50px; */
+
+    }
+    
+    .pepsi125mobile h2 {
+        font-size: 40px;
+        font-weight: 900;
+        line-height: 45px;
+        padding-top: 70px;
+    
+    }
+    
+    .pepsi125mobile h3 {
+        font-size: 25px;
+        font-weight: 900;
+        word-spacing: 1px;
+        margin-top: -80px;
+        
+    }
+    
+    .pepsi125mobile button {
+        font-size: 25px;
+        font-weight: 900;
+        margin-top: 35px;
+        /* letter-spacing: -3px; */
+        border: 1px solid #0025ff;
+        background-color: #0025ff;
+        color: white;
+        padding: 20px 25px;
+    }
+
+    .socialiconsmobile {
+        /* position: relative; */
+        width: 100%;
+        height: 1400px;
+        margin-top: -60px;
+        background-color: black;
+    
+    }
+    
+    
+    .socialtextmobile h1 {
+        /* position: relative; */
+        width: 100%;
+        color: #0025ff;
+        word-spacing: -1px;
+        text-align: center;
+        font-size: 45px;
+        font-weight: 900;
+        /* top: 50px; */
+        line-height: 45px;
+        font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+    }
+    
+    .socialimgmobile {
+        width: 100%;
+    
+    }
+    
+    .socialimgflexmobile {
+        /* display: flex; */
+        border: 3px solid #0025ff;
+        position: relative;
+        top: 120px;
+        width: 85%;
+        margin: auto;
+    }
+    
+    .imagesmobile {
+        position: relative;
+        top: 1px;
+        width: 160px;
+        z-index: 1;
+    }
+    
+    .imagesmobile:hover {
+         animation: swing;
+        animation-duration: 1s;  
+    }
+
+
+    .footermobile {
+        width: 100%;
+        height: 410px;
+        color: white;
+        background-color: black;
+        font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        line-height: 25px;
+        
+
+    
+    }
+    
+    .footimgmobile{
+        text-align: center;
+        margin-top: -40px;
+        margin-bottom: 40px;
+    }
+
+    .footimgmobile img {
+        width: 100px;
+        
+        
+    }
+    
+    .footimgmobile img:hover {
+        animation: flash infinite;
+        animation-duration: 1.2s;
+    }
+    
+    .foottext1mobile {
+        position: relative;
+        /* margin-left: 130px; */
+        /* margin-top: 120px; */
+        text-align: center;
+    }
+    
+    .foottext2mobile {
+        position: relative;
+        /* margin-left: 80px;
+        margin-top: 120px; */
+        text-align: center;
+    }
+    
+    .foottext3mobile {
+        position: relative;
+        /* margin-left: 80px;
+        margin-top: 120px; */
+        text-align: center;
+        
+    }
+    
+    .footiconsmobile {
+        /* display: flex; */
+background-color: #0025ff;
+    padding: 35px 30px;
+    margin-top: 30px;
+    
+    }
+    
+    .footmobile{
+        width: 30px;
+        position: relative;
+        /* top: 150px;
+        left: 100px; */
+        padding-left: 15px;
+    
+    
+    }
+    
+    .footermobile a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .footermobile a:visited {
+        color: white;
+    }
+    
+    .footermobile a:hover {
+        color: gainsboro;
+    }
+
+    
+}
+
+
+
+@media screen and (min-width: 1024px){
+.mobile{
+    display: none;
+}
+}
+
+@media screen and (min-width: 768px){
+.mobile{
+    display: none;
+}
+}
