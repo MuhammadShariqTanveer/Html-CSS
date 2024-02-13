@@ -1,24 +1,17 @@
-.div{
-    border: 1px solid;
-    width: 7%;
-    background-color: blue;
+.spiner{
+    width: 70px;
+    height: 65px;
+    border: 10px solid ;
+    background-color: red;
+    animation: spin 1s infinite;
 }
 
-.div1{
-    border: 1px solid;
-    width: 7%;
-    border-color: red;
-    background-color: blue;
-    animation-name: spiner;
-}
-
-@keyframes spiner{
+@keyframes spin {
     0%{
-        transform: rotate(0deg);
-    }
+        transform: rotate(0Deg);
+    },
 
     100%{
-        transform: rotateX(360deg);
-    }
+        transform: rotate(360Deg);
+    };
 }
-
