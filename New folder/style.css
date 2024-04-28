@@ -1,0 +1,99 @@
+
+
+*{
+    font-family: 'Josefin Sans', sans-serif; 
+
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-top: 15px; */
+    position: relative;
+   background-color: white;
+    
+}
+
+.navbar_logo>img{
+    width:48% ;
+    position: relative;
+    left: 50%;
+    cursor: pointer;
+}
+
+.navbar_text{
+    position: relative;
+    font-size: 16px;
+    right:115px;
+    color:#0d6db7;
+    cursor: pointer;
+}
+
+.body_text{
+    background-color:#e9ecef;
+   line-height: 0px;
+   height: 550px;
+}
+
+
+.quizapplication{
+    color: #0d6db7;
+    font-weight:300;
+    font-size: 4.5rem ;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;  
+    margin-top: -8px;
+    padding-top: 120px;
+
+
+
+}
+
+.Smit{
+    font-weight:300;
+    font-size: 3.3rem ;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif; 
+    padding-top: 20px;
+
+}
+
+.smitp{
+    text-align: center;
+    font-size: 19px;
+margin-top: 90px;
+}
+
+.smitp2{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 19px;
+}
+
+.click{
+    text-align: center;
+}
+
+.click>button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.click>button:hover{
+    background-color: #0d6db7;
+    /* border-color: #0d6db7; */
+    color: white;
+    /* border: none; */
+}
+
+.footer>h3{
+    font-weight: 400;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.footer>h3>span{
+    color:#0d6db7;
+}
